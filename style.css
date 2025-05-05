@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: black;
+    color: white;
+  }
+  .controls {
+    margin-bottom: 15px;
+  }
+  input, button {
+    margin-right: 10px;
+    padding: 6px 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  thead {
+    background-color: #000000;
+  }
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  img {
+    width: 25px;
+  }
+  
